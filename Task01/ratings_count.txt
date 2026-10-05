@@ -1,0 +1,2 @@
+Min user ID: 1, Count: 232 
+Max user ID: 120, Count: 22
