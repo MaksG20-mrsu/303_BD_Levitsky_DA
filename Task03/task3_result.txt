@@ -1,0 +1,129 @@
+1. Movies with at least one rating (first 10)
+----------------------------------------
+Maria Bamford: Old Baby| Bab
+Trip to the Moon, A (Voyage dans la lune, Le) (1902)|1902
+The Electric Hotel (1908)|1908
+20,000 Leagues Under the Sea (1916)|1916
+Rink, The (1916)|1916
+Immigrant, The (1917)|1917
+One Week (1920)|1920
+Kid, The (1921)|1921
+Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)|1922
+Safety Last! (1923)|1923
+
+2. Users with last name starting with 'A' (first 5)
+----------------------------------------
+Callie Abshire|2005-01-02
+Jena Abernathy|2006-06-10
+Deron Altenwerth|2007-05-16
+Lilliana Abernathy|2007-10-25
+Quinton Anderson|2008-04-04
+
+3. Reviews in readable format (first 50)
+----------------------------------------
+Adell Gusikowski|(500) Days of Summer (2009)|2009|5.0|2015-11-03
+Adell Gusikowski|12 Angry Men (1957)|1957|4.5|2015-11-15
+Adell Gusikowski|12 Chairs (1971)|1971|4.5|2015-11-06
+Adell Gusikowski|12 Chairs (1976)|1976|5.0|2018-05-13
+Adell Gusikowski|12 Years a Slave (2013)|2013|4.0|2015-11-03
+Adell Gusikowski|127 Hours (2010)|2010|4.0|2015-11-03
+Adell Gusikowski|13 Tzameti (2005)|2005|4.5|2015-11-27
+Adell Gusikowski|1408 (2007)|2007|4.0|2015-11-15
+Adell Gusikowski|2 Fast 2 Furious (Fast and the Furious 2, The) (2003)|2003|3.0|2015-11-05
+Adell Gusikowski|2001: A Space Odyssey (1968)|1968|4.0|2015-11-22
+Adell Gusikowski|21 (2008)|2008|4.0|2015-11-03
+Adell Gusikowski|28 Days Later (2002)|2002|4.0|2015-11-03
+Adell Gusikowski|28 Weeks Later (2007)|2007|4.0|2015-11-05
+Adell Gusikowski|3 Idiots (2009)|2009|4.5|2015-11-03
+Adell Gusikowski|3-Iron (Bin-jip) (2004)|2004|4.0|2015-11-03
+Adell Gusikowski|300 (2007)|2007|4.5|2015-11-03
+Adell Gusikowski|3:10 to Yuma (2007)|2007|3.5|2016-06-15
+Adell Gusikowski|40 Days and 40 Nights (2002)|2002|3.0|2015-11-15
+Adell Gusikowski|40-Year-Old Virgin, The (2005)|2005|3.0|2015-11-03
+Adell Gusikowski|400 Blows, The (Les quatre cents coups) (1959)|1959|4.0|2015-11-22
+Adell Gusikowski|5 Centimeters per Second (ByÃ´soku 5 senchimÃªtoru) (2007)|2007|4.5|2015-11-03
+Adell Gusikowski|50/50 (2011)|2011|4.0|2015-11-15
+Adell Gusikowski|8 Mile (2002)|2002|3.5|2015-11-05
+Adell Gusikowski|A Plasticine Crow (1981)|1981|5.0|2018-05-13
+Adell Gusikowski|About Time (2013)|2013|5.0|2015-11-03
+Adell Gusikowski|Adjustment Bureau, The (2011)|2011|3.5|2015-11-15
+Adell Gusikowski|Adventures Of Sherlock Holmes And Dr. Watson: The Twentieth Century Approaches (1986)|1986|5.0|2018-05-13
+Adell Gusikowski|Adventures of Mowgli: The Kidnapping (1968)|1968|4.5|2018-05-13
+Adell Gusikowski|Afonya (1975)|1975|4.0|2015-11-15
+Adell Gusikowski|Aguirre: The Wrath of God (Aguirre, der Zorn Gottes) (1972)|1972|3.5|2015-11-03
+Adell Gusikowski|Akira (1988)|1988|3.5|2015-11-22
+Adell Gusikowski|Alesha Popovich and Tugarin the Dragon (2004)|2004|5.0|2018-05-13
+Adell Gusikowski|Alice in Wonderland (2010)|2010|4.0|2015-11-05
+Adell Gusikowski|Alien (1979)|1979|4.0|2015-11-22
+Adell Gusikowski|All About Eve (1950)|1950|4.0|2015-11-15
+Adell Gusikowski|Along Came Polly (2004)|2004|3.5|2015-11-06
+Adell Gusikowski|Amadeus (1984)|1984|5.0|2015-11-22
+Adell Gusikowski|Amelie (Fabuleux destin d'AmÃ©lie Poulain, Le) (2001)|2001|4.0|2015-11-03
+Adell Gusikowski|American Beauty (1999)|1999|5.0|2015-11-05
+Adell Gusikowski|American Gangster (2007)|2007|3.5|2015-11-03
+Adell Gusikowski|American History X (1998)|1998|4.0|2015-11-03
+Adell Gusikowski|American Pie 2 (2001)|2001|3.5|2015-11-03
+Adell Gusikowski|American Psycho (2000)|2000|3.5|2015-11-03
+Adell Gusikowski|American Wedding (American Pie 3) (2003)|2003|3.5|2015-11-15
+Adell Gusikowski|Anchorman: The Legend of Ron Burgundy (2004)|2004|3.0|2015-11-15
+Adell Gusikowski|Andrei Rublev (Andrey Rublyov) (1969)|1969|4.5|2015-11-04
+Adell Gusikowski|Angels & Demons (2009)|2009|4.5|2015-11-03
+Adell Gusikowski|Annie Hall (1977)|1977|4.0|2015-11-15
+Adell Gusikowski|Antichrist (2009)|2009|5.0|2015-11-27
+Adell Gusikowski|Apartment, The (1960)|1960|4.0|2015-11-15
+
+4. Movies with tags (first 40)
+----------------------------------------
+Kid, The (1921)|1921|orphans
+Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)|1922|vampires
+Our Hospitality (1923)|1923|In Netflix queue
+Safety Last! (1923)|1923|Clock
+Greed (1924)|1924|gold
+Gold Rush, The (1925)|1925|mining
+Faust (1926)|1926|In Netflix queue
+College (1927)|1927|In Netflix queue
+Circus, The (1928)|1928|big top
+Circus, The (1928)|1928|circus
+Passion of Joan of Arc, The (Passion de Jeanne d'Arc, La) (1928)|1928|saint
+Andalusian Dog, An (Chien andalou, Un) (1929)|1929|mindfuck
+Andalusian Dog, An (Chien andalou, Un) (1929)|1929|surreal
+Andalusian Dog, An (Chien andalou, Un) (1929)|1929|surrealism
+Blue Angel, The (Blaue Engel, Der) (1930)|1930|nightclub
+Blue Angel, The (Blaue Engel, Der) (1930)|1930|singers
+Divorcee, The (1930)|1930|divorce
+City Lights (1931)|1931|blind
+Frankenstein (1931)|1931|In Netflix queue
+M (1931)|1931|atmospheric
+M (1931)|1931|chilly
+M (1931)|1931|creepy
+M (1931)|1931|menacing
+M (1931)|1931|mental illness
+M (1931)|1931|oninous
+M (1931)|1931|serial killer
+Maltese Falcon, The (a.k.a. Dangerous Female) (1931)|1931|heist
+Farewell to Arms, A (1932)|1932|Hemingway
+Freaks (1932)|1932|circus
+Horse Feathers (1932)|1932|Marx brothers
+Flying Down to Rio (1933)|1933|Astaire and Rogers
+Invisible Man, The (1933)|1933|invisibility
+Gay Divorcee, The (1934)|1934|divorce
+It Happened One Night (1934)|1934|Screwball
+Thin Man, The (1934)|1934|Nick and Nora Charles
+Twentieth Century (1934)|1934|In Netflix queue
+39 Steps, The (1935)|1935|fugitive
+Alice Adams (1935)|1935|class
+Captain Blood (1935)|1935|swashbuckler
+Mutiny on the Bounty (1935)|1935|ships
+
+5. Latest movies (newest year in the database)
+----------------------------------------
+Generation Iron 2|ron 
+
+----------------------------------------
+
+7. Most common and rarest occupation
+----------------------------------------
+student|196
+doctor|7
+
+„«ï ¯à®¤®«¦¥­¨ï ­ ¦¬¨â¥ «î¡ãî ª« ¢¨èã . . . 
